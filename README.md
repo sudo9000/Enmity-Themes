@@ -1,42 +1,46 @@
 # Enmity-Themes
 
-## Blu <br>
-A Discord Theme with various shades of blue <br>
-Created by: sudo#1469 <br>
-Custom color palette <br>
-<br>
-Preview: <br>
+Created by: sudo#1469
+
+- - - -
+
+## Blu
+A Discord Theme with various shades of blue.
+
+<details>
+<summary>Preview: </summary>
 ![](/images/blu.png)
-<br>
+</details>
+
 - - - -
-<br>
-## BozoTheClown <br>
-A Discord Theme inspired by 1st grade art class <br>
-Created by: sudo#1469 <br>
-Custom color palette <br>
-<br>
-Preview: <br>
+
+## BozoTheClown
+A Discord Theme inspired by 1st grade art class.
+
+<details>
+<summary>Preview: </summary>
 ![](/images/bozotheclown.png)
-<br>
+</details>
+
 - - - -
-<br>
-## CityFog <br>
-A Discord theme with a cyberpunk-esque color palette designed to give a cold but lively feel <br>
-Created by: sudo#1469 <br>
-Based on the City Fog color palette/theme by [Metalloriff](https://metalloriff.github.io/city-fog) <br>
-<br>
-Preview: <br>
+
+## CityFog
+A Discord theme with a cyberpunk-esque color palette designed to give a cold but lively feel.
+Based on the City Fog color palette/theme by [Metalloriff](https://metalloriff.github.io/city-fog)
+
+<details>
+<summary>Preview: </summary>
 ![](/images/cityfog.png)
-<br>
+</details>
+
 - - - -
-<br>
-## Merlot <br>
-A Discord Theme with various shades of red <br>
-Created by: sudo#1469 <br>
-Custom color palette <br>
-<br>
-Preview: <br>
+
+## Merlot
+A Discord Theme with various shades of red.
+
+<details>
+<summary>Preview: </summary>
 ![](/images/merlot.png)
-<br>
+</details>
+
 - - - -
-<br>
