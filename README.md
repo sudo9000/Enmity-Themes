@@ -9,7 +9,7 @@ A Discord Theme with various shades of blue.
 
 <details>
 <summary>Preview: </summary>
-![](.assets/images/blu.png)
+![](.assets/images/blu.png?raw=true)
 </details>
 
 - - - -
@@ -19,7 +19,7 @@ A Discord Theme inspired by 1st grade art class.
 
 <details>
 <summary>Preview: </summary>
-![](.assets/images/bozotheclown.png)
+![](.assets/images/bozotheclown.png?raw=true)
 </details>
 
 - - - -
@@ -30,7 +30,7 @@ Based on the City Fog color palette/theme by [Metalloriff](https://metalloriff.g
 
 <details>
 <summary>Preview: </summary>
-![](.assets/images/cityfog.png)
+![](.assets/images/cityfog.png?raw=true)
 </details>
 
 - - - -
@@ -40,7 +40,7 @@ A Discord Theme with various shades of red.
 
 <details>
 <summary>Preview: </summary>
-![](.assets/images/merlot.png)
+![](.assets/images/merlot.png?raw=true)
 </details>
 
 - - - -
