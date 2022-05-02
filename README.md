@@ -8,7 +8,7 @@ Custom color palette <br>
 Preview: <br>
 ![](/images/blu.png)
 <br>
-<br>
+- - - -
 <br>
 ## BozoTheClown <br>
 A Discord Theme inspired by 1st grade art class <br>
@@ -18,7 +18,7 @@ Custom color palette <br>
 Preview: <br>
 ![](/images/bozotheclown.png)
 <br>
-<br>
+- - - -
 <br>
 ## CityFog <br>
 A Discord theme with a cyberpunk-esque color palette designed to give a cold but lively feel <br>
@@ -28,7 +28,7 @@ Based on the City Fog color palette/theme by [Metalloriff](https://metalloriff.g
 Preview: <br>
 ![](/images/cityfog.png)
 <br>
-<br>
+- - - -
 <br>
 ## Merlot <br>
 A Discord Theme with various shades of red <br>
@@ -38,5 +38,5 @@ Custom color palette <br>
 Preview: <br>
 ![](/images/merlot.png)
 <br>
-<br>
+- - - -
 <br>
