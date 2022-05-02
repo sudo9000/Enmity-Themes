@@ -1,4 +1,4 @@
-# enmity-Themes
+# Enmity-Themes
 
 ## Blu <br>
 A Discord Theme with various shades of blue <br>
