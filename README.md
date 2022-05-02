@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Blu.json
 ```
 <br>
 Preview: <br>
-![Blu](/images/blu.png)
+![](/images/blu.png)
 <br>
 <br>
 <br>
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/BozoTheClown.json
 ```
 <br>
 Preview: <br>
-![BozoTheClown](/images/bozotheclown.png)
+![](/images/bozotheclown.png)
 <br>
 <br>
 <br>
@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/CityFog.json
 ```
 <br>
 Preview: <br>
-![CityFog](/images/cityfog.png)
+![](/images/cityfog.png)
 <br>
 <br>
 <br>
@@ -52,7 +52,7 @@ https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Merlot.json
 ```
 <br>
 Preview: <br>
-![Merlot](/images/merlot.png)
+![](/images/merlot.png)
 <br>
 <br>
 <br>
