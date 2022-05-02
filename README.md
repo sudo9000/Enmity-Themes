@@ -5,50 +5,50 @@ Created by: sudo#1469
 - - - -
 
 ## Blu
-A Discord Theme with various shades of blue.
+A Discord Theme with various shades of blue.<br>
 <br>
+Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Blu.json
 ```
-<br>
-Preview:
+Preview:<br>
 ![](/.assets/images/blu.png)
 
 - - - -
 
 ## BozoTheClown
-A Discord Theme inspired by 1st grade art class.
+A Discord Theme inspired by 1st grade art class.<br>
 <br>
+Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/BozoTheClown.json
 ```
-<br>
-Preview:
+Preview:<br>
 ![](/.assets/images/bozotheclown.png)
 
 - - - -
 
 ## CityFog
 A Discord theme with a cyberpunk-esque color palette designed to give a cold but lively feel.<br>
-Based on the City Fog color palette/theme by [Metalloriff](https://metalloriff.github.io/city-fog)
+Based on the City Fog color palette/theme by [Metalloriff](https://metalloriff.github.io/city-fog)<br>
 <br>
+Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/CityFog.json
 ```
-<br>
-Preview:
+Preview:<br>
 ![](/.assets/images/cityfog.png)
 
 - - - -
 
 ## Merlot
-A Discord Theme with various shades of red.
+A Discord Theme with various shades of red.<br>
 <br>
+Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Merlot.json
 ```
-<br>
-Preview:
+Preview:<br>
 ![](/.assets/images/merlot.png)
 
 - - - -
