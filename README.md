@@ -7,10 +7,9 @@ Created by: sudo#1469
 ## Blu
 A Discord Theme with various shades of blue.
 
-<details>
-<summary>Preview: </summary>
-![](.assets/images/blu.png?raw=true)
-</details>
+
+Preview:
+![](/.assets/images/blu.png)
 
 - - - -
 
