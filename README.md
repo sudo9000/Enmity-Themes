@@ -16,30 +16,24 @@ Preview:
 ## BozoTheClown
 A Discord Theme inspired by 1st grade art class.
 
-<details>
-<summary>Preview: </summary>
+Preview:
 ![](/.assets/images/bozotheclown.png)
-</details>
 
 - - - -
 
 ## CityFog
-A Discord theme with a cyberpunk-esque color palette designed to give a cold but lively feel.
+A Discord theme with a cyberpunk-esque color palette designed to give a cold but lively feel.<br>
 Based on the City Fog color palette/theme by [Metalloriff](https://metalloriff.github.io/city-fog)
 
-<details>
-<summary>Preview: </summary>
-![](.assets/images/cityfog.png?raw=true)
-</details>
+Preview:
+![](/.assets/images/cityfog.png)
 
 - - - -
 
 ## Merlot
 A Discord Theme with various shades of red.
 
-<details>
-<summary>Preview: </summary>
-![](.assets/images/merlot.png?raw=true)
-</details>
+Preview:
+![](/.assets/images/merlot.png)
 
 - - - -
