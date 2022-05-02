@@ -18,7 +18,7 @@ A Discord Theme inspired by 1st grade art class.
 
 <details>
 <summary>Preview: </summary>
-![](.assets/images/bozotheclown.png?raw=true)
+![](/.assets/images/bozotheclown.png)
 </details>
 
 - - - -
