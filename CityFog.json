@@ -8,6 +8,11 @@
 			"id": "696446023815397456"
 		}
 	],
+	"background": {
+		"blur": "1",
+		"url": "https://i.imgur.com/sEkjODE.jpeg",
+		"alpha": "0.69"
+	},
 	"theme_color_map": {
 		"KEYBOARD": ["#324151", "#324151"],
 		"BACKGROUND_PRIMARY": ["#324151", "#324151"],
@@ -19,7 +24,7 @@
 		"BACKGROUND_MENTIONED": ["#BE7D7D", "#BE7D7D"],
 		"BACKGROUND_MOBILE_PRIMARY": ["#324151", "#324151"],
 		"BACKGROUND_MOBILE_SECONDARY": ["#42566A", "#42566A"],
-		"BACKGROUND_MODIFIER_HOVER": ["#BD7BA2", "#BD7BA2"],
+		"BACKGROUND_MODIFIER_HOVER": ["#2C3946", "#2C3946"],
 		"BACKGROUND_MODIFIER_ACTIVE": ["#9A88BF", "#9A88BF"],
 		"BACKGROUND_MODIFIER_SELECTED": ["#2C3946", "#2C3946"],
 		"BACKGROUND_NESTED_FLOATING": ["#232E38", "#232E38"],
