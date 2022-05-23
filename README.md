@@ -52,3 +52,15 @@ Preview:<br>
 ![](/.assets/images/merlot.png)
 
 - - - -
+
+## Cydia
+A Discord Theme inspired by Cydia colors.<br>
+<br>
+Copy this URL and add to Enmity:
+```
+https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Cydia.json
+```
+Preview:<br>
+![](/.assets/images/cydia.png)
+
+- - - -
