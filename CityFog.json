@@ -9,9 +9,9 @@
 		}
 	],
 	"background": {
-		"blur": "1",
-		"url": "https://i.imgur.com/sEkjODE.jpeg",
-		"alpha": "0.69"
+		"blur": 1,
+		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/cityfogBG.png",
+		"alpha": 0.69
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#324151", "#324151"],
