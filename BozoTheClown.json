@@ -1,6 +1,6 @@
 {
 	"name": "BozoTheClown",
-	"version": "1.4",
+	"version": "1.6",
 	"description": "I quit my job at McDonalds. The boss was a clown.",
 	"authors": [
 		{
@@ -8,6 +8,11 @@
 			"id": "696446023815397456"
 		}
 	],
+	"background": {
+		"blur": 1,
+		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/bozoBG.png",
+		"alpha": 0.69
+	},
 	"theme_color_map": {
 		"KEYBOARD": ["#7030A0", "#7030A0"],
 		"ACTIVITY_CARD_BACKGROUND": ["#FF0000", "#FF0000"],

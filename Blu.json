@@ -1,6 +1,6 @@
 {
 	"name": "Blu",
-	"version": "1.5",
+	"version": "1.6",
 	"description": "A discord theme with various shades of blue.",
 	"authors": [
 		{
@@ -10,7 +10,7 @@
 	],
 	"background": {
 		"blur": 1,
-		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/cityfogBG.png",
+		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/bluBG.png",
 		"alpha": 0.69
 	},
 	"theme_color_map": {
