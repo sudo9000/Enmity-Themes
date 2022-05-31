@@ -11,7 +11,7 @@
 	"background": {
 		"blur": 1,
 		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/merlotBG.png",
-		"alpha": 0.69
+		"alpha": 1
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#571D1D", "#571D1D"],
