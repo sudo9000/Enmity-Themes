@@ -1,6 +1,6 @@
 {
 	"name": "Merlot",
-	"version": "1.6",
+	"version": "1.7",
 	"description": "A discord theme with various shades of red.",
 	"authors": [
 		{
@@ -8,11 +8,6 @@
 			"id": "696446023815397456"
 		}
 	],
-	"background": {
-		"blur": 1,
-		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/merlotBG.png",
-		"alpha": 1
-	},
 	"theme_color_map": {
 		"KEYBOARD": ["#571D1D", "#571D1D"],
 		"BACKGROUND_PRIMARY": ["#571D1D", "#571D1D"],

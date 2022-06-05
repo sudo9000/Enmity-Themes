@@ -1,6 +1,6 @@
 {
 	"name": "Cydia",
-	"version": "1.6",
+	"version": "1.7",
 	"description": "A discord theme inspired by Cydia.",
 	"authors": [
 		{
@@ -8,11 +8,6 @@
 			"id": "696446023815397456"
 		}
 	],
-	"background": {
-		"blur": 1,
-		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/cydiaBG.png",
-		"alpha": 1
-	},
 	"theme_color_map": {
 		"KEYBOARD": ["#674D42", "#674D42"],
 		"BACKGROUND_PRIMARY": ["#674D42", "#674D42"],
