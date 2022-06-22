@@ -1,7 +1,8 @@
 {
 	"name": "CityFog",
-	"version": "1.7",
+	"version": "1.8",
 	"description": "A cyberpunk-esque theme with a cold but lively feel.",
+	"color": "#C5C387",
 	"authors": [
 		{
 			"name": "Sudo",

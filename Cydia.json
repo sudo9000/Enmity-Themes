@@ -1,7 +1,8 @@
 {
 	"name": "Cydia",
-	"version": "1.7",
+	"version": "1.8",
 	"description": "A discord theme inspired by Cydia.",
+	"color": "#573022",
 	"authors": [
 		{
 			"name": "Sudo",

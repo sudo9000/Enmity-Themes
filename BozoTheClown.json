@@ -1,7 +1,8 @@
 {
 	"name": "BozoTheClown",
-	"version": "1.7",
+	"version": "1.8",
 	"description": "I quit my job at McDonalds. The boss was a clown.",
+	"color": "#FF79FF",
 	"authors": [
 		{
 			"name": "Sudo",
