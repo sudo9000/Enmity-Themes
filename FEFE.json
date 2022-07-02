@@ -2,6 +2,7 @@
 	"name": "FEFE",
 	"version": "6.9",
 	"description": "Colorful hair, don't care",
+	"color": "#FF0000",
 	"authors": [
 		{
 			"name": "Sudo",
