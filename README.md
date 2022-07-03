@@ -69,6 +69,7 @@ Preview:<br>
 Colorful hair, don't care.<br>
 <br>
 Copy this URL and add to Enmity:
+<br>
 No background img (OLED):
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json
