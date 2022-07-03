@@ -12,7 +12,7 @@
 	"background": {
 		"blur": 15,
 		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/fefeBG.png",
-		"alpha": 0.5
+		"alpha": 1
 	},
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#000000"],
