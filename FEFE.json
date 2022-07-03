@@ -1,8 +1,8 @@
 {
 	"name": "FEFE",
-	"version": "6.9",
+	"version": "1.8",
 	"description": "Colorful hair, don't care (OLED)",
-	"color": "#FF0000",
+	"color": "#00B050",
 	"authors": [
 		{
 			"name": "Sudo",

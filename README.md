@@ -69,11 +69,11 @@ Preview:<br>
 Colorful hair, don't care.<br>
 <br>
 Copy this URL and add to Enmity:
-No background (OLED):
+No background img (OLED):
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json
 ```
-6ix9ine background:
+6ix9ine background img:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE69.json
 ```
