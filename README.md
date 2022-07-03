@@ -68,7 +68,7 @@ Preview:<br>
 ## FEFE
 Colorful hair, don't care.<br>
 <br>
-Copy this URL and add to Enmity:
+Copy this URL and add to Enmity:<br>
 <br>
 No background img (OLED):
 ```
