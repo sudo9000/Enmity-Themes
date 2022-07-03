@@ -1,7 +1,7 @@
 {
-	"name": "FEFE",
+	"name": "FEFE69",
 	"version": "6.9",
-	"description": "Colorful hair, don't care (OLED)",
+	"description": "Colorful hair, don't care",
 	"color": "#FF0000",
 	"authors": [
 		{
@@ -9,6 +9,11 @@
 			"id": "696446023815397456"
 		}
 	],
+	"background": {
+		"blur": 22,
+		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/fefeBG.png",
+		"alpha": 1
+	},
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#000000"],
 		"ACTIVITY_CARD_BACKGROUND": ["#FF0000", "#FF0000"],
