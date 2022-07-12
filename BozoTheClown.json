@@ -102,7 +102,8 @@
 			"PRIMARY_DARK_630": "#00B050",
 			"PRIMARY_DARK_700": "#FFFF00",
 			"PRIMARY_DARK_800": "#00B050",
-			"PRIMARY_DARK_900": "#0070C0"
+			"PRIMARY_DARK_900": "#0070C0",
+			"WHITE": "#FFFF00"
 		},
 		"unsafe_colors": {
 			"CHAT_GREY": "#00B050"

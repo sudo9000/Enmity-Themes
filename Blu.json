@@ -49,7 +49,8 @@
 			"PRIMARY_DARK_630": "#324151",
 			"PRIMARY_DARK_700": "#202A3A",
 			"PRIMARY_DARK_800": "#1D2A3B",
-			"PRIMARY_DARK_900": "#D8E1E9"
+			"PRIMARY_DARK_900": "#D8E1E9",
+			"WHITE": "#1D2A3B"
 		},
 		"unsafe_colors": {
 			"CHAT_GREY": "#324151"
