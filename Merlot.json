@@ -36,7 +36,8 @@
 		"HEADER_SECONDARY": ["#B9BBBE", "#B9BBBE"]
 		},
 		"colours": {
-			"PRIMARY_DARK":  "#571D1D",
+			"BRAND_NEW": "#FF0000",
+			"PRIMARY_DARK": "#571D1D",
 			"PRIMARY_DARK_100": "#FFFFFF",
 			"PRIMARY_DARK_200": "#FFFFFF",
 			"PRIMARY_DARK_300": "#FF0000",

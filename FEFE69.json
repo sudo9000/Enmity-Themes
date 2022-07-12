@@ -96,6 +96,7 @@
 		"TEXT_WARNING": ["#7030A0", "#7030A0"]
 		},
 		"colours": {
+			"BRAND_NEW": "#00B050",
 			"PRIMARY_DARK": "#FF0000",
 			"PRIMARY_DARK_100": "#FF0000",
 			"PRIMARY_DARK_200": "#FF0000",

@@ -90,6 +90,7 @@
 		"TEXT_WARNING": ["#7030A0", "#7030A0"]
 		},
 		"colours": {
+			"BRAND_NEW": "#0070C0",
 			"PRIMARY_DARK": "#FF0000",
 			"PRIMARY_DARK_100": "#ED7D31",
 			"PRIMARY_DARK_200": "#00FF00",
