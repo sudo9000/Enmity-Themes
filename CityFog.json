@@ -44,7 +44,7 @@
 		"HEADER_SECONDARY": ["#7CB2BD", "#7CB2BD"]
 		},
 		"colours": {
-			"BRAND_NEW": "#7CB2BD",
+			"BRAND_NEW": "#BE7D7D",
 			"PRIMARY_DARK": "#324151",
 			"PRIMARY_DARK_100": "#C5C387",
 			"PRIMARY_DARK_200": "#C5C387",
@@ -57,7 +57,7 @@
 			"PRIMARY_DARK_700": "#42566A",
 			"PRIMARY_DARK_800": "#324151",
 			"PRIMARY_DARK_900": "#7BBE92",
-			"WHITE": "#324151"
+			"WHITE": "#D8E1E9"
 		},
 		"unsafe_colors": {
 			"CHAT_GREY": "#42566A"
