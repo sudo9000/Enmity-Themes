@@ -1,0 +1,132 @@
+{
+    "name": "Cydia",
+    "description": "A discord theme inspired by Cydia.",
+    "authors": [
+        {
+            "name": "Sudo",
+            "id": "696446023815397456"
+        }
+    ],
+    "semanticColors": {
+        "KEYBOARD": [
+            "#674D42",
+            "#674D42"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#674D42",
+            "#674D42"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#825F49",
+            "#825F49"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#34261D",
+            "#34261D"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#573022",
+            "#573022"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#423936",
+            "#423936"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#674D42",
+            "#674D42"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#C1AA7E",
+            "#C1AA7E"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#674D42",
+            "#674D42"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#34261D",
+            "#34261D"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#423936",
+            "#423936"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#423936",
+            "#423936"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#423936",
+            "#423936"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#34261D",
+            "#34261D"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#573022",
+            "#573022"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#B9BBBE",
+            "#B9BBBE"
+        ],
+        "CHANNEL_ICON": [
+            "#C1AA7E",
+            "#C1AA7E"
+        ],
+        "TEXTBOX_MARKDOWN_SYNTAX": [
+            "#394E62",
+            "#394E62"
+        ],
+        "TEXT_NORMAL": [
+            "#D8E1E9",
+            "#D8E1E9"
+        ],
+        "TEXT_MUTED": [
+            "#B9BBBE",
+            "#B9BBBE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#C1AA7E",
+            "#C1AA7E"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#596470",
+            "#596470"
+        ],
+        "HEADER_PRIMARY": [
+            "#D8E1E9",
+            "#D8E1E9"
+        ],
+        "HEADER_SECONDARY": [
+            "#B9BBBE",
+            "#B9BBBE"
+        ],
+        "CHAT_BACKGROUND": [
+            "#674D42",
+            "#674D42"
+        ]
+    },
+    "rawColors": {
+        "BRAND_500": "#674D42",
+        "PRIMARY_500": "#674D42",
+        "PRIMARY_100": "#D8E1E9",
+        "PRIMARY_200": "#D8E1E9",
+        "PRIMARY_300": "#9CDFFF",
+        "PRIMARY_360": "#C3CCD4",
+        "PRIMARY_400": "#C1AA7E",
+        "PRIMARY_600": "#573022",
+        "PRIMARY_630": "#573022",
+        "PRIMARY_700": "#34261D",
+        "PRIMARY_800": "#674D42",
+        "PRIMARY_900": "#D8E1E9",
+        "WHITE_500": "#C1AA7E"
+    },
+    "spec": 2
+}

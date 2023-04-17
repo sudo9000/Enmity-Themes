@@ -1,0 +1,128 @@
+{
+    "name": "Merlot",
+    "description": "A discord theme with various shades of red.",
+    "authors": [
+        {
+            "name": "Sudo",
+            "id": "696446023815397456"
+        }
+    ],
+    "semanticColors": {
+        "KEYBOARD": [
+            "#571D1D",
+            "#571D1D"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#571D1D",
+            "#571D1D"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#470000",
+            "#470000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#630707",
+            "#630707"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#630707",
+            "#630707"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#AD0303",
+            "#AD0303"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#571D1D",
+            "#571D1D"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#FF0000",
+            "#FF0000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#571D1D",
+            "#571D1D"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#470000",
+            "#470000"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#AD0303",
+            "#AD0303"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#AD0303",
+            "#AD0303"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#AD0303",
+            "#AD0303"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#470000",
+            "#470000"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#470000",
+            "#470000"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#B9BBBE",
+            "#B9BBBE"
+        ],
+        "CHANNEL_ICON": [
+            "#B9BBBE",
+            "#B9BBBE"
+        ],
+        "TEXTBOX_MARKDOWN_SYNTAX": [
+            "#394E62",
+            "#394E62"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#B9BBBE",
+            "#B9BBBE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FF0000",
+            "#FF0000"
+        ],
+        "HEADER_PRIMARY": [
+            "#FFFFFF",
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#B9BBBE",
+            "#B9BBBE"
+        ],
+        "CHAT_BACKGROUND": [
+            "#571D1D",
+            "#571D1D"
+        ]
+    },
+    "rawColors": {
+        "BRAND_500": "#630707",
+        "PRIMARY_500": "#571D1D",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#FF0000",
+        "PRIMARY_360": "#FF0000",
+        "PRIMARY_400": "#FF0000",
+        "PRIMARY_600": "#470000",
+        "PRIMARY_630": "#470000",
+        "PRIMARY_700": "#470000",
+        "PRIMARY_800": "#571D1D",
+        "PRIMARY_900": "#FFFFFF",
+        "WHITE_500": "#D8E1E9"
+    },
+    "spec": 2
+}
