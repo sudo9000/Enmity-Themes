@@ -8,6 +8,10 @@
         }
     ],
     "semanticColors": {
+				"KEYBOARD": [
+						"#324151",
+						"#324151"
+				],
         "BACKGROUND_PRIMARY": [
             "#324151",
             "#324151"
