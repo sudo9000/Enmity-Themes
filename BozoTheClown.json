@@ -9,6 +9,11 @@
 			"id": "696446023815397456"
 		}
 	],
+	"background": {
+		"blur": 1,
+		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/bozoBG.png",
+		"alpha": 1
+	},
 	"theme_color_map": {
 		"KEYBOARD": ["#7030A0", "#7030A0"],
 		"ACTIVITY_CARD_BACKGROUND": ["#FF0000", "#FF0000"],
@@ -24,7 +29,7 @@
 		"BACKGROUND_MODIFIER_HOVER": ["#00B050", "#00B050"],
 		"BACKGROUND_MODIFIER_SELECTED": ["#0070C0", "#0070C0"],
 		"BACKGROUND_NESTED_FLOATING": ["#7030A0", "#7030A0"],
-		"BACKGROUND_PRIMARY": ["#0070C0", "#0070C0"],
+		"BACKGROUND_PRIMARY": ["#00FF00", "#00FF00"],
 		"BACKGROUND_SECONDARY": ["#7030A0", "#7030A0"],
 		"BACKGROUND_SECONDARY_ALT": ["#FF0000", "#FF0000"],
 		"BACKGROUND_TERTIARY": ["#ED7D31", "#ED7D31"],

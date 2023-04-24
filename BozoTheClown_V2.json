@@ -65,8 +65,8 @@
             "#7030A0"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0070C0",
-            "#0070C0"
+            "#00FF00",
+            "#00FF00"
         ],
         "BACKGROUND_SECONDARY": [
             "#7030A0",
@@ -339,6 +339,11 @@
         "PRIMARY_800": "#00B050",
         "PRIMARY_900": "#0070C0",
         "WHITE_500": "#FFFF00"
+    },
+		"background": {
+        "blur": 1,
+        "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/bozoBG.png",
+        "alpha": 1
     },
     "spec": 2
 }
