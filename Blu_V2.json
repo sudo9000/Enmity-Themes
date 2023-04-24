@@ -13,7 +13,7 @@
 						"#1D2A3B"
 				],
         "BACKGROUND_PRIMARY": [
-            "#1D2A3B",
+            "#2C394A",
             "#1D2A3B"
         ],
         "BACKGROUND_SECONDARY": [
@@ -127,6 +127,11 @@
         "PRIMARY_800": "#1D2A3B",
         "PRIMARY_900": "#D8E1E9",
         "WHITE_500": "#D8E1E9"
+    },
+		"background": {
+        "blur": 1,
+        "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/bluBG.png",
+        "alpha": 1
     },
     "spec": 2
 }
