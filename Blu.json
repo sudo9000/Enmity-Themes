@@ -9,9 +9,14 @@
 			"id": "696446023815397456"
 		}
 	],
+	"background": {
+		"blur": 1,
+		"url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/bluBG.png",
+		"alpha": 1
+	},
 	"theme_color_map": {
 		"KEYBOARD": ["#1D2A3B", "#1D2A3B"],
-		"BACKGROUND_PRIMARY": ["#1D2A3B", "#1D2A3B"],
+		"BACKGROUND_PRIMARY": ["#324151", "#324151"],
 		"BACKGROUND_SECONDARY": ["#2B3B4E", "#2B3B4E"],
 		"BACKGROUND_SECONDARY_ALT": ["#1D2A3B", "#1D2A3B"],
 		"BACKGROUND_TERTIARY": ["#324051", "#324051"],
