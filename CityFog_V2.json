@@ -76,6 +76,14 @@
             "#7CB2BD",
             "#7BBE92"
         ],
+				"MENTIONED_BACKGROUND": [
+            "#7BBE92",
+            "#7BBE92"
+        ],
+				"MENTIONED_FOREGROUND": [
+            "#324151",
+            "#324151"
+        ],
         "TEXTBOX_MARKDOWN_SYNTAX": [
             "#BD987E",
             "#BD987E"
