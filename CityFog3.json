@@ -46,6 +46,7 @@
 		},
 		"colours": {
 			"BRAND_NEW": "#BE7D7D",
+			"PRIMARY_DARK": "#324151",
 			"PRIMARY_DARK_100": "#C5C387",
 			"PRIMARY_DARK_200": "#C5C387",
 			"PRIMARY_DARK_230": "#C5C387",
