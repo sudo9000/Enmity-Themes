@@ -42,7 +42,7 @@ Based on the City Fog color palette/theme by [Metalloriff](https://metalloriff.g
 <br>
 Copy this URL and add to Enmity:
 ```
-https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/CityFog.json
+https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/CityFog2.json
 ```
 Copy this URL and add to Vendetta:
 ```
