@@ -8,9 +8,9 @@
         }
     ],
     "semanticColors": {
-				"KEYBOARD": [
-						"#324151",
-						"#324151"
+	"KEYBOARD": [
+	    "#324151",
+	    "#324151"
 				],
         "BACKGROUND_PRIMARY": [
             "#42566A",
@@ -76,11 +76,11 @@
             "#7CB2BD",
             "#7BBE92"
         ],
-				"MENTIONED_BACKGROUND": [
+	"MENTIONED_BACKGROUND": [
             "#7BBE92",
             "#7BBE92"
         ],
-				"MENTIONED_FOREGROUND": [
+	"MENTIONED_FOREGROUND": [
             "#324151",
             "#324151"
         ],
