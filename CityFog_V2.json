@@ -157,13 +157,13 @@
         "version":"0",
         "iconpack":"rosiecord-plumpy",
         "icons":{
-            "ic_new_pins":["#e64553"],
-            "StatusStreaming": ["#7e64fb"],
-          "StatusMobileOnline": ["#09bd63"],
-          "StatusIdle": ["#ffd401"],
-          "StatusDND": ["#ff611a"],
-          "StatusOffline": ["#015bd5"],
-          "StatusOnline": ["#09bd63"]}
-     },
+        "ic_new_pins":["#BD987E"],
+        "StatusStreaming": ["#BE7D7D"],
+        "StatusMobileOnline": ["#7CB2BD"],
+        "StatusIdle": ["#C5C387"],
+        "StatusDND": ["#9A88BF"],
+        "StatusOffline": ["#D8E1E9"],
+        "StatusOnline": ["#7BBE92"]}
+    },
     "spec": 2
 }
