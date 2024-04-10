@@ -153,5 +153,17 @@
         "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/cityfogBG.png",
         "alpha": 1
     },
+    "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy",
+        "icons":{
+            "ic_new_pins":["#e64553"],
+            "StatusStreaming": ["#7e64fb"],
+          "StatusMobileOnline": ["#09bd63"],
+          "StatusIdle": ["#ffd401"],
+          "StatusDND": ["#ff611a"],
+          "StatusOffline": ["#015bd5"],
+          "StatusOnline": ["#09bd63"]}
+     },
     "spec": 2
 }
