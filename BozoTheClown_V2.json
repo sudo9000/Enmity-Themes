@@ -345,5 +345,18 @@
         "url": "https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/.assets/bg/bozoBG.png",
         "alpha": 1
     },
+    "plus":{
+        "version":"0",
+        "customOverlays": true,
+        "iconpack":"rosiecord-plumpy",
+        "icons":{
+        "ic_new_pins":["#BD987E"],
+        "StatusStreaming": ["#BE7D7D"],
+        "StatusMobileOnline": ["#7CB2BD"],
+        "StatusIdle": ["#C5C387"],
+        "StatusDND": ["#9A88BF"],
+        "StatusOffline": ["#D8E1E9"],
+        "StatusOnline": ["#7BBE92"]}
+    },
     "spec": 2
 }
