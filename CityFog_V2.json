@@ -41,7 +41,7 @@
             "#BE7D7D"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000",
+            "#324151",
             "#324151"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
@@ -49,7 +49,7 @@
             "#42566A"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#00FF00",
+            "#2C3946",
             "#2C3946"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
@@ -57,15 +57,15 @@
             "#9A88BF"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2C3946",
+            "#FFFFFF",
             "#2C3946"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#232E38",
+            "#000000",
             "#232E38"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#232E38",
+            "#FF0000",
             "#232E38"
         ],
 		 "BORDER_FAINT": [
