@@ -33,7 +33,7 @@
             "#7BB1BD"
         ],
         "BACKGROUND_FLOATING": [
-            "#324151",
+            "#42566A",
             "#324151"
         ],
         "BACKGROUND_MENTIONED": [
@@ -83,7 +83,7 @@
 			"#D8E1E9"
 		],
         "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-			"#D8E1E9"
+			"42566A"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
 			"42566A"
@@ -104,13 +104,13 @@
             "#13A10E"
         ],
 		 "BORDER_FAINT": [
-            "#D8E1E9"
+            "#6B7786"
         ],
         "BORDER_STRONG": [
-            "#D8E1E9"
+            "#6B7786"
         ],
         "BORDER_SUBTLE": [
-            "#D8E1E9"
+            "#6B7786"
         ],
         "CHANNELS_DEFAULT": [
             "#42566A",
