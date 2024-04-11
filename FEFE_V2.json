@@ -105,11 +105,11 @@
             "#7030A0"
         ],
         "DEPRECATED_CARD_EDITABLE_BG": [
-            "#000000",
+            "#FF0000",
             "#FF0000"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_BACKGROUND": [
-            "#000000",
+            "#FF0000",
             "#000000"
         ],
         "DEPRECATED_QUICKSWITCHER_INPUT_PLACEHOLDER": [
@@ -333,9 +333,9 @@
         "BRAND_500": "#00B050",
         "PRIMARY_500": "#FF0000",
         "PRIMARY_100": "#FF0000",
-        "PRIMARY_200": "#000000",
-        "PRIMARY_230": "#000000",
-        "PRIMARY_260": "#000000",
+        "PRIMARY_200": "#FF0000",
+        "PRIMARY_230": "#FF0000",
+        "PRIMARY_260": "#FF0000",
         "PRIMARY_300": "#FF0000",
         "PRIMARY_360": "#0070C0",
         "PRIMARY_400": "#0070C0",
