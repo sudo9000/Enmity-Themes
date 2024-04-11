@@ -165,6 +165,7 @@
     "plus":{
         "version":"0",
         "customOverlays": true,
+        "iconpack":"rosiecord-iconsax"
         "icons": {
             "ic_new_pins": "#BD987E",
             "StatusDND": "#9A88BF",
