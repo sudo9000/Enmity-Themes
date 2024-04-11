@@ -165,16 +165,15 @@
     "plus":{
         "version":"0",
         "customOverlays": true,
-        "iconpack":"md3",
-        "icons": {
-            "ic_new_pins": "#BD987E",
-            "StatusDND": "#9A88BF",
-            "StatusIdle": "#C5C387",
-            "StatusMobileOnline": "#7CB2BD",
-            "StatusOffline": "#D8E1E9",
-            "StatusOnline": "#7BBE92",
-            "StatusStreaming": "#BE7D7D"
-        }
+        "iconpack":"rosiecord-plumpy",
+        "icons":{
+        "ic_new_pins":["#BD987E"],
+        "StatusStreaming": ["#BE7D7D"],
+        "StatusMobileOnline": ["#7CB2BD"],
+        "StatusIdle": ["#C5C387"],
+        "StatusDND": ["#9A88BF"],
+        "StatusOffline": ["#D8E1E9"],
+        "StatusOnline": ["#7BBE92"]}
     },
     "spec": 2
 }
