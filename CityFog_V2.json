@@ -165,7 +165,7 @@
     "plus":{
         "version":"0",
         "customOverlays": true,
-        "iconpack":"rosiecord-plumpy",
+        "iconpack":"rosiecord-iconsax",
         "icons":{
         "ic_new_pins":["#BD987E"],
         "StatusStreaming": ["#BE7D7D"],
