@@ -104,17 +104,17 @@
             "#13A10E"
         ],
 		 "BORDER_FAINT": [
-            "#fbdf6a"
+            "#D8E1E9"
         ],
         "BORDER_STRONG": [
-            "#fbdf6a"
+            "#D8E1E9"
         ],
         "BORDER_SUBTLE": [
-            "#fbdf6a"
+            "#D8E1E9"
         ],
         "CHANNELS_DEFAULT": [
-            "#92A0B3",
-            "#BE7D7D"
+            "#42566A",
+            "#92A0B3"
         ],
         "CHANNEL_ICON": [
             "#7CB2BD",
