@@ -82,15 +82,6 @@
 		"BUTTON_OUTLINE_BRAND_BOARDER":[
 			"#D8E1E9"
 		],
-        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-			"42566A"
-        ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-			"42566A"
-        ],
-        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
-			"#42566A"
-        ],
         "SCROLLBAR_THIN_THUMB": [
             "#13A10E"
         ],
