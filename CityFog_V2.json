@@ -8,10 +8,10 @@
         }
     ],
     "semanticColors": {
-	"KEYBOARD": [
-	    "#324151",
-	    "#324151"
-				],
+        "KEYBOARD": [
+            "#324151",
+            "#324151"
+        ],
         "BACKGROUND_PRIMARY": [
             "#42566A",
             "#42566A"
@@ -68,9 +68,6 @@
             "#232E38",
             "#232E38"
         ],
-        "BG_BACKDROP":[
-			"transparent"
-    	],
         "REDESIGN_CHANNEL_NAME_TEXT": [
             "#D8E1E9",
             "#D8E1E9"
