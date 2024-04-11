@@ -68,6 +68,9 @@
             "#232E38",
             "#232E38"
         ],
+        "BG_BACKDROP":[
+			"transparent"
+    	],
         "REDESIGN_CHANNEL_NAME_TEXT": [
             "#D8E1E9",
             "#D8E1E9"
@@ -78,7 +81,7 @@
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
 			"#D8E1E9"
-		],
+    	],
 		"BUTTON_OUTLINE_BRAND_BOARDER":[
 			"#D8E1E9"
 		],
