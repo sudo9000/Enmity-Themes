@@ -167,13 +167,13 @@
         "customOverlays": true,
         "iconpack":"rosiecord-plumpy",
         "icons": {
-            "ic_new_pins": "#c55e97",
-            "StatusMobileOnline": "#fbdf6a",
-            "StatusIdle": "#e7a56e",
-            "StatusDND": "#c55e97",
-            "StatusOffline": "#d28077",
-            "StatusOnline": "#fbdf6a",
-            "StatusStreaming": "#c55e97"
+            "ic_new_pins": "#BD987E",
+            "StatusDND": "#9A88BF",
+            "StatusIdle": "#C5C387",
+            "StatusMobileOnline": "#7CB2BD",
+            "StatusOffline": "#D8E1E9",
+            "StatusOnline": "#7BBE92",
+            "StatusStreaming": "#BE7D7D"
         }
     },
     "spec": 2
