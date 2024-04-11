@@ -73,8 +73,8 @@
             "#D8E1E9"
         ],
         "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#42566A",
-            "#e7a56e"
+            "#2C3946",
+            "#2C3946"
         ],
 		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
 			"#D8E1E9"
@@ -86,7 +86,7 @@
 			"#D8E1E9"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-			"#D8E1E9"
+			"42566A"
         ],
         "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
 			"#42566A"
