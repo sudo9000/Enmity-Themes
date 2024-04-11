@@ -68,32 +68,6 @@
             "#232E38",
             "#232E38"
         ],
-        "REDESIGN_CHANNEL_NAME_TEXT": [
-            "#D8E1E9",
-            "#D8E1E9"
-        ],
-        "REDESIGN_CHAT_INPUT_BACKGROUND": [
-            "#2C3946",
-            "#2C3946"
-        ],
-		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
-			"#D8E1E9"
-    	],
-		"BUTTON_OUTLINE_BRAND_BOARDER":[
-			"#D8E1E9"
-		],
-        "SCROLLBAR_THIN_THUMB": [
-            "#13A10E"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "transparent"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#13A10E"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#13A10E"
-        ],
 		 "BORDER_FAINT": [
             "#6B7786"
         ],
