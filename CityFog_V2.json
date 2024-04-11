@@ -68,6 +68,50 @@
             "#232E38",
             "#232E38"
         ],
+        "REDESIGN_CHANNEL_NAME_TEXT": [
+            "#D8E1E9",
+            "#D8E1E9"
+        ],
+        "REDESIGN_CHAT_INPUT_BACKGROUND": [
+            "#42566A",
+            "#e7a56e"
+        ],
+		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
+			"#D8E1E9"
+		],
+		"BUTTON_OUTLINE_BRAND_BOARDER":[
+			"#D8E1E9"
+		],
+        "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+			"#D8E1E9"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+			"#D8E1E9"
+        ],
+        "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+			"#42566A"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#13A10E"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#13A10E"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#13A10E"
+        ],
+		 "BORDER_FAINT": [
+            "#fbdf6a"
+        ],
+        "BORDER_STRONG": [
+            "#fbdf6a"
+        ],
+        "BORDER_SUBTLE": [
+            "#fbdf6a"
+        ],
         "CHANNELS_DEFAULT": [
             "#92A0B3",
             "#BE7D7D"
