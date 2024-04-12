@@ -165,7 +165,7 @@
     "plus":{
         "version":"0",
         "customOverlays": true,
-        "iconpack":"rosiecord-plumpy",
+        "iconpack":"md3",
        "icons":{
           "AccessibilityIcon": "#a79ab3",
           "account": "#31748f",
