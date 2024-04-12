@@ -8,6 +8,9 @@
         }
     ],
     "semanticColors": {
+        "ANDROID_RIPPLE": [
+            "#eb6f9250"
+        ],
         "KEYBOARD": [
             "#674D42",
             "#674D42"
