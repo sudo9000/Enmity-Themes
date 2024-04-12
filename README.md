@@ -1,4 +1,4 @@
-# Enmity & Vendetta Themes
+# Enmity & Vendetta/Revenge/Bunny/Pyoncord Themes
 
 Created by: sudo#1469
 
@@ -11,7 +11,7 @@ Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Blu.json
 ```
-Copy this URL and add to Vendetta:
+Copy this URL and add to Vendetta/Revenge/Bunny/Pyoncord:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Blu_V2.json
 ```
@@ -27,7 +27,7 @@ Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/BozoTheClown.json
 ```
-Copy this URL and add to Vendetta:
+Copy this URL and add to Vendetta/Revenge/Bunny/Pyoncord:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/BozoTheClown_V2.json
 ```
@@ -44,7 +44,7 @@ Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/CityFog2.json
 ```
-Copy this URL and add to Vendetta:
+Copy this URL and add to Vendetta/Revenge/Bunny/Pyoncord:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/CityFog_V2.json
 ```
@@ -60,7 +60,7 @@ Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Merlot.json
 ```
-Copy this URL and add to Vendetta:
+Copy this URL and add to Vendetta/Revenge/Bunny/Pyoncord:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Merlot_V2.json
 ```
@@ -76,7 +76,7 @@ Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Cydia.json
 ```
-Copy this URL and add to Vendetta:
+Copy this URL and add to Vendetta/Revenge/Bunny/Pyoncord:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/Cydia_V2.json
 ```
@@ -92,7 +92,7 @@ Copy this URL and add to Enmity:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE.json
 ```
-Copy this URL and add to Vendetta:
+Copy this URL and add to Vendetta/Revenge/Bunny/Pyoncord:
 ```
 https://raw.githubusercontent.com/sudo9000/Enmity-Themes/main/FEFE_V2.json
 ```
