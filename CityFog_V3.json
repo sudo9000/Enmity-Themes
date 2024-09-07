@@ -164,7 +164,8 @@
         "PLUM_3": "#ffffff",
         "PLUM_4": "#DCDDE5",
         "PLUM_6": "#C6C8CE",
-        "WHITE_500": "#D8E1E9"
+        "WHITE_500": "#D8E1E9",
+        "WHITE_630": "#D8E1E9"
     },
     "background": {
         "blur": 1,
