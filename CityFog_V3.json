@@ -1,5 +1,5 @@
 {
-    "name": "CityFog",
+    "name": "CityFogV3",
     "description": "A cyberpunk-esque theme with a cold but lively feel.",
     "authors": [
         {
@@ -155,6 +155,15 @@
         "PRIMARY_700": "#2C3946",
         "PRIMARY_800": "#324151",
         "PRIMARY_900": "#D8E1E9",
+        "PLUM_10": "#848494",
+        "PLUM_15": "#B5BDFF",
+        "PLUM_16": "#25262e",
+        "PLUM_17": "#212027",
+        "PLUM_18": "#2B2833",
+        "PLUM_20": "#24232b",
+        "PLUM_3": "#ffffff",
+        "PLUM_4": "#DCDDE5",
+        "PLUM_6": "#C6C8CE",
         "WHITE_500": "#D8E1E9"
     },
     "background": {
