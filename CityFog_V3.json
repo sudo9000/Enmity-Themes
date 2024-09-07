@@ -65,7 +65,7 @@
             "#232E38"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000",
+            "#232E38",
             "#232E38"
         ],
 		 "BORDER_FAINT": [
@@ -147,7 +147,7 @@
         "PRIMARY_300": "#D8E1E9",
         "PRIMARY_360": "#D8E1E9",
         "PRIMARY_400": "#9A88BF",
-        "PRIMARY_460": "#2C3946",
+        "PRIMARY_460": "#3A4756",
         "PRIMARY_500": "#324151",
         "PRIMARY_600": "#42566Abf",
         "PRIMARY_630": "#3A4756",
