@@ -49,7 +49,7 @@
             "#42566A"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#2C3946",
+            "#3A4756",
             "#2C3946"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
@@ -61,11 +61,11 @@
             "#2C3946"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#232E38",
+            "#3A4756",
             "#232E38"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#232E38",
+            "#3A4756",
             "#232E38"
         ],
 		 "BORDER_FAINT": [
@@ -156,11 +156,11 @@
         "PRIMARY_800": "#324151",
         "PRIMARY_900": "#D8E1E9",
         "PLUM_10": "#D8E1E9",
-        "PLUM_15": "#3A4756",
-        "PLUM_16": "#42566A",
-        "PLUM_17": "#42566A",
-        "PLUM_18": "#42566A",
-        "PLUM_20": "#42566A",
+        "PLUM_15": "#42566A",
+        "PLUM_16": "#3A4756",
+        "PLUM_17": "#3A4756",
+        "PLUM_18": "#3A4756",
+        "PLUM_20": "#3A4756",
         "PLUM_3": "#D8E1E9",
         "WHITE_500": "#D8E1E9",
         "WHITE_630": "#D8E1E9"
