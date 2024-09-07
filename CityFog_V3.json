@@ -45,7 +45,7 @@
             "#324151"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#42566A",
+            "#3A4756",
             "#42566A"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
@@ -155,7 +155,7 @@
         "PRIMARY_700": "#2C3946",
         "PRIMARY_800": "#324151",
         "PRIMARY_900": "#D8E1E9",
-        "PLUM_10": "#42566A",
+        "PLUM_10": "#3A4756",
         "PLUM_15": "#2C3946",
         "PLUM_16": "#3A4756",
         "PLUM_17": "#3A4756",
