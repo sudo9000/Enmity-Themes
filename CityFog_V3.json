@@ -133,13 +133,6 @@
             "#7CB2BD",
             "#7CB2BD"
         ],
-        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [ "#272830" ],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [ "#3B394B" ], 
-        "REDESIGN_BUTTON_SECONDARY_BORDER": [ "#494758" ],  
-        "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [ "#BBC4F8" ], 
-        "REDESIGN_CHANNEL_NAME_TEXT": [ "#ffffff" ],  
-        "REDESIGN_CHAT_INPUT_BACKGROUND": [ "#1c1d24" ],
-        "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [ "#1c1d24" ],
         "CHAT_BACKGROUND": [
             "#324151",
             "#324151"
@@ -157,7 +150,7 @@
         "PRIMARY_460": "#2C3946",
         "PRIMARY_500": "#324151",
         "PRIMARY_600": "#42566Abf",
-        "PRIMARY_630": "#2C3946",
+        "PRIMARY_630": "#42566A",
         "PRIMARY_660": "#2C3946",
         "PRIMARY_700": "#2C3946",
         "PRIMARY_800": "#324151",
