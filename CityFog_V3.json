@@ -197,7 +197,7 @@
         "version":"0",
         "customOverlays": true,
         "iconpack":"rosiecord-plumpy",
-        "mentionLineColor": "#97B9F4",
+        "mentionLineColor": "#7BBE92",
         "icons":{
           "AccessibilityIcon": "#a79ab3",
           "account": "#31748f",
