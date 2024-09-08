@@ -12,6 +12,10 @@
             "#324151",
             "#324151"
         ],
+        "ANDROID_RIPPLE": [
+            "#D8E1E9",
+            "#42566A"
+        ],
         "BACKGROUND_PRIMARY": [
             "#42566A",
             "#42566A"
@@ -132,6 +136,10 @@
         "HEADER_SECONDARY": [
             "#7CB2BD",
             "#7CB2BD"
+        ],
+        "THREAD_CHANNEL_SPINE": [
+            "#D8E1E9",
+            "#42566A"
         ],
         "CHAT_BACKGROUND": [
             "#324151",
