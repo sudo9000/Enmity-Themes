@@ -1,6 +1,7 @@
 {
-    "name": "CityFog",
+    "name": "CityFogV2",
     "description": "A cyberpunk-esque theme with a cold but lively feel.",
+    "version": "2.0",
     "authors": [
         {
             "name": "Sudo",
@@ -13,8 +14,8 @@
             "#324151"
         ],
         "BACKGROUND_PRIMARY": [
-            "#42566A",
-            "#42566A"
+            "#2C3946",
+            "#2C3946"
         ],
         "BACKGROUND_SECONDARY": [
             "#232E38",
@@ -65,8 +66,8 @@
             "#232E38"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#232E38",
-            "#232E38"
+            "#2C3946",
+            "#2C3946"
         ],
 		 "BORDER_FAINT": [
             "#6B7786"
@@ -119,7 +120,7 @@
         ],
         "INTERACTIVE_MUTED": [
             "#6B7786",
-            "#BD987E"
+            "#6B7786"
         ],
         "INTERACTIVE_NORMAL": [
             "#C5C387",
@@ -127,11 +128,15 @@
         ],
         "HEADER_PRIMARY": [
             "#D8E1E9",
-            "#7BBE92"
+            "#D8E1E9"
         ],
         "HEADER_SECONDARY": [
             "#7CB2BD",
             "#7CB2BD"
+        ],
+        "THREAD_CHANNEL_SPINE": [
+            "#D8E1E9",
+            "#D8E1E9"
         ],
         "CHAT_BACKGROUND": [
             "#324151",
@@ -139,7 +144,21 @@
         ]
     },
     "rawColors": {
+        "BRAND_260": "#9EC1FF",
+        "BRAND_300": "#97B9F4",
+        "BRAND_330": "#93B4ED",
+        "BRAND_345": "#8FB0E8",
+        "BRAND_360": "#8EAEE5",
+        "BRAND_400": "#87A6DB",
+        "BRAND_430": "#809ECE",
+        "BRAND_460": "#7E9CCC",
         "BRAND_500": "#BE7D7D",
+        "BRAND_530": "#738EBA",
+        "BRAND_560": "#708AB5",
+        "BRAND_600": "#6E88B2",
+        "BRAND_630": "#6880A8",
+        "BRAND_660": "#637BA0",
+        "BRAND_700": "#60779B",
         "PRIMARY_100": "#C5C387",
         "PRIMARY_200": "#C5C387",
         "PRIMARY_230": "#D8E1E9",
@@ -150,12 +169,20 @@
         "PRIMARY_460": "#2C3946",
         "PRIMARY_500": "#324151",
         "PRIMARY_600": "#42566Abf",
-        "PRIMARY_630": "#2C3946",
-        "PRIMARY_660": "#2C3946",
-        "PRIMARY_700": "#2C3946",
+        "PRIMARY_630": "#394756",
+        "PRIMARY_660": "#394756",
+        "PRIMARY_700": "#394756",
         "PRIMARY_800": "#324151",
         "PRIMARY_900": "#D8E1E9",
-        "WHITE_500": "#D8E1E9"
+        "PLUM_10": "#D8E1E9",
+        "PLUM_15": "#2C3946",
+        "PLUM_16": "#2C3946",
+        "PLUM_17": "#394756",
+        "PLUM_18": "#394756",
+        "PLUM_20": "#394756",
+        "PLUM_3": "#D8E1E9",
+        "WHITE_500": "#D8E1E9",
+        "WHITE_630": "#D8E1E9"
     },
     "background": {
         "blur": 1,
@@ -166,7 +193,8 @@
         "version":"0",
         "customOverlays": true,
         "iconpack":"rosiecord-plumpy",
-       "icons":{
+        "mentionLineColor": "#7BBE92",
+        "icons":{
           "AccessibilityIcon": "#a79ab3",
           "account": "#31748f",
           "add": "#9ccfd8",
@@ -203,6 +231,7 @@
           "ic_arrow_down": "#c4a7e7",
           "ic_add_friend": "#9ccfd8",
           "ic_authed_apps_24px": "#9ccfd8",
+          "ic_back_chevron": "#c4a7e7",
           "ic_badge_staff": "#31748f",
           "ic_ban_24px": "#eb6f92",
           "ic_behavior_24px": "#c4a7e7",
@@ -320,6 +349,8 @@
           "icon-qs-links": "#9ccfd8",
           "icon-search": "#c4a7e7",
           "img_account_sync_spotify_white": "#1ed760",
+          "img_guild_folder": "#B5BDFF",
+          "img_guild_create": "#7BBE92",
           "img_help_icon": "#a79ab3",
           "img_no_results_dark_theme": "#c4a7e7",
           "KeyIcon": "#eb6f92",
@@ -358,6 +389,26 @@
           "toast_image_saved": "#9ccfd8",
           "WrenchIcon": "#31748f"
       }
+    },
+    "fonts":{
+          "ABCGintoNord-ExtraBold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-ExtraBold.ttf?raw=1",
+          "ggsans-Bold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Bold.ttf?raw=1",
+          "ggsans-BoldItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-BoldItalic.ttf?raw=1",
+          "ggsans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-ExtraBold.ttf?raw=1",
+          "ggsans-ExtraBoldItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-ExtraBoldItalic.ttf?raw=1",
+          "ggsans-Medium": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Medium.ttf?raw=1",
+          "ggsans-MediumItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-MediumItalic.ttf?raw=1",
+          "ggsans-Normal": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Normal.ttf?raw=1",
+          "ggsans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-NormalItalic.ttf?raw=1",
+          "ggsans-Semibold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-SemiBold.ttf?raw=1",
+          "ggsans-SemiboldItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-SemiBoldItalic.ttf?raw=1",
+          "NotoSans-Bold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Bold.ttf?raw=1",
+          "NotoSans-ExtraBold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-ExtraBold.ttf?raw=1",
+          "NotoSans-Medium": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Medium.ttf?raw=1",
+          "NotoSans-Normal": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-Normal.ttf?raw=1",
+          "NotoSans-NormalItalic": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-NormalItalic.ttf?raw=1",
+          "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-SemiBold.ttf?raw=1",
+          "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-SemiBold.ttf?raw=1"
     },
     "spec": 2
 }
