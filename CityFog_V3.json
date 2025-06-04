@@ -414,5 +414,6 @@
           "NotoSans-Semibold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-SemiBold.ttf?raw=1",
           "SourceCodePro-Semibold": "https://github.com/Rairof/Theme-Fonts/blob/main/Linotte/Linotte-SemiBold.ttf?raw=1"
     },
+    "type": "dark",
     "spec": 2
 }
